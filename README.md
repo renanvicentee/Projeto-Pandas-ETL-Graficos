@@ -193,20 +193,6 @@ Este projeto permitiu colocar em prática conceitos importantes relacionados à 
 * 🔎 Consultas e validação de dados
 * 📊 Organização de dados para análises futuras
 
----
-
-## 🚀 Próximos Passos
-
-Como evolução do projeto, algumas possibilidades são:
-
-* 🔄 Automatizar a execução do pipeline
-* 🗄️ Expandir a estrutura do banco de dados
-* 📊 Conectar os dados tratados ao Power BI
-* ⚙️ Implementar validações automáticas de qualidade
-* ☁️ Migrar o processo para um ambiente em nuvem
-* 📅 Criar uma rotina de execução periódica do ETL
-
----
 
 ---
 
