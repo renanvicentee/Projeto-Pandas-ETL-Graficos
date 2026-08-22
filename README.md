@@ -14,7 +14,24 @@ O projeto contempla as seguintes etapas:
 
 `📥 Extração → 🧹 Tratamento → 🔄 Transformação → 🗄️ Carga → 🔎 Consulta`
 
+
 ---
+
+## 📊 Visualização dos Dados
+
+Após o processo de tratamento e transformação, os dados puderam ser utilizados
+para gerar visualizações e análises.
+
+
+
+<p align="center">
+  <img src="imagens/barras.png" width="50%"/>
+  <img src="imagens/pizza.png" width="45%"/>
+</p>
+
+<p align="center">
+  <img src="imagens/tempo.png" width="80%"/>
+</p>
 
 ## 🗂️ Etapas do Projeto
 
@@ -41,20 +58,6 @@ Durante essa etapa foram identificados e corrigidos diferentes problemas de qual
 * 📐 Padronização de formatos
 * ✅ Validação dos dados após o tratamento
 
-Exemplo de inconsistência encontrada:
-
-```text
-Peter Jackson
-peter jackson
-Peter jackson
-PETER JACKSON
-```
-
-Após o processo de tratamento, os registros foram padronizados para uma única representação:
-
-```text
-Peter Jackson
-```
 
 ---
 
@@ -150,6 +153,14 @@ Essa etapa permitiu verificar se o processo de ETL produziu uma base consistente
 * SQL
 * MySQL
 
+### 🔄 Conceitos
+
+* ETL
+* Data Cleaning
+* Data Quality
+* Transformação de Dados
+* Integração Python + SQL
+
 ---
 
 ## 📂 Estrutura do Projeto
@@ -182,6 +193,22 @@ Este projeto permitiu colocar em prática conceitos importantes relacionados à 
 * 🔎 Consultas e validação de dados
 * 📊 Organização de dados para análises futuras
 
+---
+
+## 🚀 Próximos Passos
+
+Como evolução do projeto, algumas possibilidades são:
+
+* 🔄 Automatizar a execução do pipeline
+* 🗄️ Expandir a estrutura do banco de dados
+* 📊 Conectar os dados tratados ao Power BI
+* ⚙️ Implementar validações automáticas de qualidade
+* ☁️ Migrar o processo para um ambiente em nuvem
+* 📅 Criar uma rotina de execução periódica do ETL
+
+---
+
+---
 
 🔗 [LinkedIn](https://www.linkedin.com/in/renanvtimozzi/)
 
